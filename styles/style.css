@@ -126,6 +126,11 @@ body {
     
 }
 
+.tab-5:hover {
+    background-color: blue;
+    color: white;
+}
+
 .text-gd {
     width: 200px;
     position: absolute;
